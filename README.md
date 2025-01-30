@@ -2,17 +2,7 @@
 Таким образом она включает "случайный"  более трек предпочтительный тому, что было включено ранее. (типа по жанру, но можно разные веса ставить, чтобы увеличить % попадаемости в то, что хочет пользователь)
 Т.к выбор в системах с бинарным кодом (кроме квантовых) детерменирован, то и называть случайной кнопкой это нельзя 
 
-EN:
 Я привел в системе графики, и вижу некие рисунки, если кто-то когда-то сюда доберется, то может у вас получится explain this 
-
-This is a pseudo-random button that works by selecting track weights similar to what the user originally enabled. Thus it enables a “random” more preferred track to the one that was previously enabled. (like genre, but you can set different weights to increase the % of hitting what the user wants) Since the choice in systems with binary code (except quantum) is deterministic, you can't call it a random button.
-
-I've given some graphics in the system, and I see some drawings, if someone ever gets here, you might be able to explain this
-
-This can be used for commercial purposes, but as an author I want 10% for the idea Spent: 1 slice of pizza 3 cups of tea 1 waka 50% on my phone 6 nerve ties 3 hours of life 200 rubles/month on vpn 6 chinese on dipsic 1 pendos on gpt 1 slav on i gpt 399 rubles/month YAM subscription
-
-Translated with DeepL.com (free version)
-
 
 Это можно использовать в коммерческих целях, но я как автор хочу 10% за идею 
 Потрачено: 
